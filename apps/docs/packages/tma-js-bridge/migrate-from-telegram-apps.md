@@ -1,3 +1,4 @@
+![3220](https://github.com/user-attachments/assets/a26553ad-a9b3-4023-8cb4-d8b26d83efe2)
 # Migrating from @telegram-apps/bridge
 
 This guide provides a summary of the migration process from `@telegram-apps/bridge` to `@tma.js/bridge`.
@@ -66,4 +67,5 @@ if (UnknownEnvError.is(someValue)) {
 }
 ```
 
-- `InvokeCustomMethodError` was renamed to `InvokeCustomMethodFailedError`
+- `InvokeCustomMethodError` was renamed to `InvokeCustomMethodFailedError`00
+- <img width="709" height="1008" alt="3307" src="https://github.com/user-attachments/assets/2162221d-f1b2-4984-b54b-790dc5b1a4ea" />
